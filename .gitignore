@@ -1,0 +1,16 @@
+# OS metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local credentials and scratch files
+.env
+.env.*
+!.env.example
+work/
+*.log
+
+# Generated build output
+dist/
+build/
+coverage/
