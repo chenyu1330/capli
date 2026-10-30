@@ -71,4 +71,8 @@
 - wgc-cli：https://github.com/vusiif/wgc-cli
 - Playwright 截图：https://playwright.dev/docs/screenshots
 
-下一步：将这份草案纳入公开仓库，然后选定一个具体的文档配图场景，收敛首版需求和设计。
+## 9. 后续调研
+
+[2026-10-30 调研与首版建议](research-2026-10-30.md) 对比了现有工具、产品方向与技术路线，建议先验证“已有目标窗口 → 截图 → Agent 确认 → 标注 → Markdown 配图”的闭环。该建议尚未确认为最终设计。
+
+下一步：选定一个具体的文档配图场景，确认首版范围，再进行双平台技术验证和实现规划。
